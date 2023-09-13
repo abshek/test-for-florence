@@ -1,0 +1,8 @@
+{
+    "app_id": "florence01-sbgtd",
+    "config_version": 20210101,
+    "name": "florence01",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "GLOBAL"
+}
