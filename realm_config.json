@@ -1,8 +1,9 @@
 {
-    "app_id": "florence01-sbgtd",
+    "app_id": "florence_app-mcgjs",
     "config_version": 20210101,
-    "name": "florence01",
+    "name": "florence_app",
     "location": "US-VA",
     "provider_region": "aws-us-east-1",
-    "deployment_model": "GLOBAL"
+    "deployment_model": "GLOBAL",
+    "environment": "development"
 }

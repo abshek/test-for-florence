@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "name": "handle_user_enters_team_event",
+        "private": false,
+        "disable_arg_logs": true
+    }
+]
